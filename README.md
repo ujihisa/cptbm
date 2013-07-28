@@ -2,4 +2,4 @@
 
 b
 
-[cpt](javascript:alert(1))
+<a href="javascript:alert(1)">cpt</a>
